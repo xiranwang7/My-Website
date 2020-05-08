@@ -1,11 +1,8 @@
-header:
-  image: xiran.jpg
-  og_image: xiran.jpg
-  
+
 
 ## Welcome to GitHub Pages
 
-![me](xiran.jpg)
+
 
 
 Hi, my name is Xiran
