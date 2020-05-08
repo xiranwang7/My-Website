@@ -5,7 +5,7 @@ header:
 
 ## Welcome to GitHub Pages
 
-![me](/Users/effie/Desktop/xiran.jpg)
+![me](xiran.jpg)
 
 
 Hi, my name is Xiran
