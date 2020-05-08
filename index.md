@@ -1,6 +1,6 @@
 header:
-  image: /Users/effie/Desktop/xiran.jpg
-  og_image: /assets/images/your-og-image.jpg
+  image: xiran.jpg
+  og_image: xiran.jpg
   
 
 ## Welcome to GitHub Pages
