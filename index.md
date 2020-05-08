@@ -1,6 +1,16 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/xiranwang7/My-Website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+Hi, my name is Xiran
+
+
+[Predictions of Smoking-Related Disease Cases and Medical Expenditures](https://xiranwang7.github.io/Medical-Cost-and-Risk/). 2/6/2019
+
+[Time Series Analysis on U.S. Suicide Rate](https://xiranwang7.github.io/Time-Series-Analysis/). 04/22/2019
+
+[Simulation and Plotting of Coverage Rates of Relative Risk and Odds Ratio for Wald-test and Adjust Wald-test](https://xiranwang7.github.io/Statistical-Simulation/). 02/03/2019
+
+[Medical Cost Differences Between Patient Clusters in the U.S.](https://xiranwang7.github.io/Multivariate-Linear-Regression/). 11/28/2018
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -23,7 +33,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![me](/Users/effie/xiran.JPG)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
