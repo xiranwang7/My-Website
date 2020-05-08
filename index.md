@@ -1,7 +1,11 @@
+header:
+  image: /Users/effie/Desktop/xiran.jpg
+  og_image: /assets/images/your-og-image.jpg
+  
+
 ## Welcome to GitHub Pages
 
-
-![me](/Users/effie/Desktop/xiran.JPG)
+![me](/Users/effie/Desktop/xiran.jpg)
 
 
 Hi, my name is Xiran
