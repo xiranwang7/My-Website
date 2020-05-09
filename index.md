@@ -5,7 +5,7 @@
 
 Hi, there!  my name is Xiran. Welcome to my website. 
 
-I graduated from M.S. in Statsitics program at [University of South Carolina](https://sc.edu/) in May, 2020. And gained my B.S. in Statistics from the same schooL in May, 2018. Yasss, **GAMECOCKS** fowever!! 
+I graduated from M.S. in Statsitics program at [University of South Carolina](https://sc.edu/) in May, 2020. And I gained my B.S. in Statistics from the same schooL in May, 2018. Yasss, **GAMECOCKS** fowever!! 
 
 I am enthusiastic about analyzing data and telling story behind numbers.
 
