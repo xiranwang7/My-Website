@@ -28,8 +28,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ## My Courseworks
-[Data Analysis](https://sc.edu/study/colleges_schools/artsandsciences/statistics/my_stat/courses/descriptions/grad_courses/stat704.php), [Data Analysis II](https://sc.edu/study/colleges_schools/artsandsciences/statistics/my_stat/courses/descriptions/grad_courses/stat705.php)
-
+[Data Mining and Warehousing](http://mleg.cse.sc.edu/edu/csce822/index.php?n=Main.Calendar),
+[Data Analysis](https://sc.edu/study/colleges_schools/artsandsciences/statistics/my_stat/courses/descriptions/grad_courses/stat704.php), [Data Analysis II](https://sc.edu/study/colleges_schools/artsandsciences/statistics/my_stat/courses/descriptions/grad_courses/stat705.php), Statsitical learning,
+[Mathematical Statistics I](https://sc.edu/study/colleges_schools/artsandsciences/statistics/my_stat/courses/descriptions/grad_courses/stat712.php), [Mathematical Statistics II](https://sc.edu/study/colleges_schools/artsandsciences/statistics/my_stat/courses/descriptions/grad_courses/stat713.php), [Linear Statistical Models](https://sc.edu/study/colleges_schools/artsandsciences/statistics/my_stat/courses/descriptions/grad_courses/stat714.php),[Time Series Analysis](https://sc.edu/study/colleges_schools/artsandsciences/statistics/my_stat/courses/descriptions/grad_courses/stat720.php), [Statistical Computing](https://sc.edu/study/colleges_schools/artsandsciences/statistics/my_stat/courses/descriptions/grad_courses/stat740.php),[Reliability and Life Testing](https://sc.edu/study/colleges_schools/artsandsciences/statistics/my_stat/courses/descriptions/grad_courses/stat761.php)[Survival Analysis II](https://www.sc.edu/study/colleges_schools/public_health/study/areas_of_study/epidemiology_biostatistics/courses/index.php),Data science in Genetics
 
 
 
