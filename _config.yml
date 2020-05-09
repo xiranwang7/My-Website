@@ -9,5 +9,5 @@ google_analytics:
 #background-repeat: no-repeat
 #background-size: contain
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
