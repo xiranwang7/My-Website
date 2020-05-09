@@ -4,10 +4,10 @@ description:
 show_downloads: false
 google_analytics:
 
-background-image: https://raw.githubusercontent.com/xiranwang7/My-Website/master/xiran.jpg
-background-position: center
-background-repeat: no-repeat
-background-size: contain
+#background-image: https://raw.githubusercontent.com/xiranwang7/My-Website/master/xiran.jpg
+#background-position: center
+#background-repeat: no-repeat
+#background-size: contain
 
 theme: jekyll-theme-minimal
 
