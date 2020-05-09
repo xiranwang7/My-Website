@@ -2,6 +2,6 @@ title: Xiran(Effie) Wang
 logo: https://raw.githubusercontent.com/xiranwang7/My-Website/master/xiran.jpg
 description: Welcome to my website!
 show_downloads: false
-#google_analytics:
+google_analytics:
 theme: jekyll-theme-minimal
 
