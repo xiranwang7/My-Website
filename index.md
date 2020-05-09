@@ -3,15 +3,13 @@
 ## About Me
 
 
-Hi, there!  my name is Xiran. Welcome to my website. 
+Hi, there! my name is Xiran. Welcome to my website. 
 
-I graduated from M.S. in Statsitics program at [University of South Carolina](https://sc.edu/) in May, 2020. And I gained my B.S. in Statistics from the same schooL in May, 2018. Yasss, **GAMECOCKS** fowever!! 
+I just graduated from M.S. in Statsitics program at [University of South Carolina](https://sc.edu/) in May, 2020. And I gained my B.S. in Statistics from the same schooL in May, 2018. Yasss, **GAMECOCKS** fowever!! 
 
-I am enthusiastic about analyzing data and telling story behind numbers. 
-
-
-
-
+I am enthusiastic about analyzing data and telling story behind numbers. Statistical modeling and programming are my favorite part in data analysis process. Especially, I am specialized at regression analysis and classification problems.
+ 
+In my leisure time, I like wrokingout and spending time outdoors to enjoy eveything about the nature. I love multicultures and I want to travl around the world to see, to feel and to undersatnd them. 
 
 
 
