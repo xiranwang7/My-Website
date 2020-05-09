@@ -35,10 +35,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ## My certifications
-Something I have learned outside of the classroom
+_Something I have learned outside of the classroom_
 
-
-
+Python Structure, SQL for Data Science, Data Wrangling and AB Testing, Neural Networks and Deep Learning, SAS Certified Base Programmer for SAS9, SAS Certified Advanced Programmer for SAS9
 
 
 
