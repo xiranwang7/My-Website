@@ -15,7 +15,7 @@ In my leisure time, I like wroking out and spending time outdoors to enjoy eveyt
 
 ## My Projects
 
-[Predictions of Smoking-Related Disease Cases and Medical Expenditures](https://xiranwang7.github.io/Medical-Cost-and-Risk/). 2/6/2019
+[Predictions of Smoking-Related Disease Cases and Medical Expenditures](https://xiranwang7.github.io/Medical-Cost-and-Risk/). 12/6/2019
 
 [Time Series Analysis on U.S. Suicide Rate](https://xiranwang7.github.io/Time-Series-Analysis/). 04/22/2019
 
