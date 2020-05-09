@@ -28,7 +28,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ## My Courseworks
-[Data Analysis}(https://sc.edu/study/colleges_schools/artsandsciences/statistics/my_stat/courses/descriptions/grad_courses/stat704.php), [Data Analysis II](https://sc.edu/study/colleges_schools/artsandsciences/statistics/my_stat/courses/descriptions/grad_courses/stat705.php)
+[Data Analysis](https://sc.edu/study/colleges_schools/artsandsciences/statistics/my_stat/courses/descriptions/grad_courses/stat704.php), [Data Analysis II](https://sc.edu/study/colleges_schools/artsandsciences/statistics/my_stat/courses/descriptions/grad_courses/stat705.php)
 
 
 
