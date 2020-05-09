@@ -3,7 +3,7 @@
 ## About Me
 
 
-Hi, there! my name is Xiran, go by Effie. Welcome to my website. 
+Hi, there! my name is Xiran, go by Effie. Welcome to my website. Here, I would like to share some of my intresteing projects and little things about statistics with you. 
 
 I just graduated from M.S. in Statsitics program at [University of South Carolina](https://sc.edu/) in May, 2020 and I gained my B.S. in Statistics from the same school in May, 2018. Yasss, **GAMECOCKS** fowever!! 
 
