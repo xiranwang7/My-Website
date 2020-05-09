@@ -23,8 +23,6 @@ In my leisure time, I like wroking out and spending time outdoors to enjoy eveyt
 
 [Medical Cost Differences Between Patient Clusters in the U.S.](https://xiranwang7.github.io/Multivariate-Linear-Regression/). 11/28/2018
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 
 
 ## My Courseworks
