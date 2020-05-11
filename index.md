@@ -15,16 +15,17 @@ In my leisure time, I like wroking out and spending time outdoors to enjoy eveyt
 
 ## My Projects
 
-[Three Popular Optimization Methods and Their Applications on Log-likelihood Function and The MaxLik Package in R](https://xiranwang7.github.io/Optimization-Methods/) 12/15/2019
+[Smoothing Hazard Function by using Uniform kernel Epachnikov kernel and Biweight kernel](https://xiranwang7.github.io/Hazard-Smooth-Functions/)[Slides](https://github.com/xiranwang7/Hazard-Smooth-Functions/blob/master/Est%20Hazard%20Smooth%20Functions.pdf)[Code](https://github.com/xiranwang7/Hazard-Smooth-Functions/blob/master/Est%20Hazard%20Smooth%20Functions-%20Xiran.R), 3/2020
 
+[Predictions of Smoking-Related Disease Cases and Medical Expenditures](https://xiranwang7.github.io/Medical-Cost-and-Risk/). 12/2019
 
-[Predictions of Smoking-Related Disease Cases and Medical Expenditures](https://xiranwang7.github.io/Medical-Cost-and-Risk/). 12/6/2019
+[Three Popular Optimization Methods and Their Applications on Log-likelihood Function and The MaxLik Package in R](https://xiranwang7.github.io/Optimization-Methods/) 12/2019
 
-[Time Series Analysis on U.S. Suicide Rate](https://xiranwang7.github.io/Time-Series-Analysis/). 04/22/2019
+[Time Series Analysis on U.S. Suicide Rate](https://xiranwang7.github.io/Time-Series-Analysis/). 04/2019
 
-[Simulation and Plotting of Coverage Rates of Relative Risk and Odds Ratio for Wald-test and Adjust Wald-test](https://xiranwang7.github.io/Statistical-Simulation/). 02/03/2019
+[Simulation and Plotting of Coverage Rates of Relative Risk and Odds Ratio for Wald-test and Adjust Wald-test](https://xiranwang7.github.io/Statistical-Simulation/). 02/2019
 
-[Medical Cost Differences Between Patient Clusters in the U.S.](https://xiranwang7.github.io/Multivariate-Linear-Regression/). 11/28/2018
+[Medical Cost Differences Between Patient Clusters in the U.S.](https://xiranwang7.github.io/Multivariate-Linear-Regression/). 11/2018
 
 
 
