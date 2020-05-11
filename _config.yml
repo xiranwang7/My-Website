@@ -2,7 +2,12 @@ title: Xiran Wang
 logo: https://raw.githubusercontent.com/xiranwang7/My-Website/master/xiran.jpg
 description: "Contact me: xiranwangwork@gmail.com"
 show_downloads: false
+social: "LinkdIn"
+  type: "Xiran Wang"
+  name: # If the user or organization name differs from the site's name
+  links: "https://www.linkedin.com/in/xiran-wang-4b6715158/"
 google_analytics:
+
 
 #background-image: https://raw.githubusercontent.com/xiranwang7/My-Website/master/xiran.jpg
 #background-position: center
