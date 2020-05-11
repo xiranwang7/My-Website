@@ -24,7 +24,8 @@ In my leisure time, I like wroking out and spending time outdoors to enjoy eveyt
 [Three Popular Optimization Methods and Their Applications on Log-likelihood Function and The MaxLik Package in R](https://xiranwang7.github.io/Optimization-Methods/) 
 | [Slides](https://github.com/xiranwang7/Optimization-Methods/blob/master/XW_Presentation.pdf), 12/2019
 
-[Time Series Analysis on U.S. Suicide Rate](https://xiranwang7.github.io/Time-Series-Analysis/) | [Slides](https://github.com/xiranwang7/Time-Series-Analysis/blob/master/Time-Series-Analysis-U.S-Suicide-Rate.pdf),04/2019
+[Time Series Analysis on U.S. Suicide Rate](https://xiranwang7.github.io/Time-Series-Analysis/) 
+| [Slides](https://github.com/xiranwang7/Time-Series-Analysis/blob/master/Time-Series-Analysis-U.S-Suicide-Rate.pdf),04/2019
 
 [Simulation and Plotting of Coverage Rates of Relative Risk and Odds Ratio for Wald-test and Adjust Wald-test](https://xiranwang7.github.io/Statistical-Simulation/), 02/2019
 
