@@ -21,7 +21,8 @@ In my leisure time, I like wroking out and spending time outdoors to enjoy eveyt
 
 [Predictions of Smoking-Related Disease Cases and Medical Expenditures](https://xiranwang7.github.io/Medical-Cost-and-Risk/), 12/2019
 
-[Three Popular Optimization Methods and Their Applications on Log-likelihood Function and The MaxLik Package in R](https://xiranwang7.github.io/Optimization-Methods/) | [Slides](https://github.com/xiranwang7/Optimization-Methods/blob/master/XW_Presentation.pdf), 12/2019
+[Three Popular Optimization Methods and Their Applications on Log-likelihood Function and The MaxLik Package in R](https://xiranwang7.github.io/Optimization-Methods/) 
+| [Slides](https://github.com/xiranwang7/Optimization-Methods/blob/master/XW_Presentation.pdf), 12/2019
 
 [Time Series Analysis on U.S. Suicide Rate](https://xiranwang7.github.io/Time-Series-Analysis/). 04/2019
 
