@@ -5,7 +5,7 @@
 
 Hi, there! My name is Xiran. Welcome to my website. I would like to share some of my intresteing projects and little things about data analytics with you. 
 
-I just graduated from M.S. in Statsitics program at [University of South Carolina](https://sc.edu/) in May, 2020 and I gained my B.S. in Statistics from the same school in May, 2018. Yasss, _GAMECOCKS_ fowever!! 
+I just graduated from M.S. in Statsitics program at [University of South Carolina](https://sc.edu/) in May, 2020 and I gained my B.S. in Statistics from the same school in May, 2018. Yasss, _GAMECOCKS_ forever!! 
 
 I am enthusiastic about analyzing data and telling stories behind numbers. Statistical modeling and programming are my favorite part in data analysis process. Especially, I am specialized at regression analysis and classification problems.
  
