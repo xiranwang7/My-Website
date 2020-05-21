@@ -28,7 +28,7 @@ In my leisure time, I like wroking out and spending time outdoors to enjoy eveyt
 
 **Function/Coding/Simulation**
 
-[Smoothing Hazard Function by using Uniform kernel Epachnikov kernel and Biweight kernel(https://xiranwang7.github.io/Hazard-Smooth-Functions/) 
+[Smoothing Hazard Function by using Uniform kernel Epachnikov kernel and Biweight kernel](https://xiranwang7.github.io/Hazard-Smooth-Functions/) 
 | [Slides](https://github.com/xiranwang7/Hazard-Smooth-Functions/blob/master/Est%20Hazard%20Smooth%20Functions.pdf) 
 | [Code](https://github.com/xiranwang7/Hazard-Smooth-Functions/blob/master/Est%20Hazard%20Smooth%20Functions-%20Xiran.R), 03/2020
 
