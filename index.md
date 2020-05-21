@@ -15,23 +15,33 @@ In my leisure time, I like wroking out and spending time outdoors to enjoy eveyt
 
 ## My Techinical Works
 
+**Data Analysis/Modeling** 
+
 [Statistical Analysis on Genetic Science](https://xiranwang7.github.io/Genetic-Analysis/), 03/2020
 
-[Smoothing Hazard Function by using Uniform kernel Epachnikov kernel and Biweight kernel](https://xiranwang7.github.io/Hazard-Smooth-Functions/) 
-| [Slides](https://github.com/xiranwang7/Hazard-Smooth-Functions/blob/master/Est%20Hazard%20Smooth%20Functions.pdf) 
-| [Code](https://github.com/xiranwang7/Hazard-Smooth-Functions/blob/master/Est%20Hazard%20Smooth%20Functions-%20Xiran.R), 03/2020
-
 [Predictions of Smoking-Related Disease Cases and Medical Expenditures](https://xiranwang7.github.io/Medical-Cost-and-Risk/), 12/2019
-
-[Three Popular Optimization Methods and Their Applications on Log-likelihood Function and The MaxLik Package in R](https://xiranwang7.github.io/Optimization-Methods/) 
-| [Slides](https://github.com/xiranwang7/Optimization-Methods/blob/master/XW_Presentation.pdf), 12/2019
 
 [Time Series Analysis on U.S. Suicide Rate](https://xiranwang7.github.io/Time-Series-Analysis/) 
 | [Slides](https://github.com/xiranwang7/Time-Series-Analysis/blob/master/Time-Series-Analysis-U.S-Suicide-Rate.pdf),04/2019
 
+[Medical Cost Differences Between Patient Clusters in the U.S.](https://xiranwang7.github.io/Multivariate-Linear-Regression/), 11/2018
+
+**Function/Coding/Simulation**
+
+[Smoothing Hazard Function by using Uniform kernel Epachnikov kernel and Biweight kernel]
+(https://xiranwang7.github.io/Hazard-Smooth-Functions/) 
+| [Slides](https://github.com/xiranwang7/Hazard-Smooth-Functions/blob/master/Est%20Hazard%20Smooth%20Functions.pdf) 
+| [Code](https://github.com/xiranwang7/Hazard-Smooth-Functions/blob/master/Est%20Hazard%20Smooth%20Functions-%20Xiran.R), 03/2020
+
 [Simulation and Plotting of Coverage Rates of Relative Risk and Odds Ratio for Wald-test and Adjust Wald-test](https://xiranwang7.github.io/Statistical-Simulation/), 02/2019
 
-[Medical Cost Differences Between Patient Clusters in the U.S.](https://xiranwang7.github.io/Multivariate-Linear-Regression/), 11/2018
+
+
+
+**Statistical Theory**
+
+[Three Popular Optimization Methods and Their Applications on Log-likelihood Function and The MaxLik Package in R](https://xiranwang7.github.io/Optimization-Methods/) 
+| [Slides](https://github.com/xiranwang7/Optimization-Methods/blob/master/XW_Presentation.pdf), 12/2019
 
 
 
