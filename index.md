@@ -3,7 +3,7 @@
 ## About Me
 
 
-Hi, there! My name is Xiran. Welcome to my website. I would like to share some of my intresteing projects and little things about data analytics with you. 
+Hi, there! My name is Xiran. Welcome to my website. I would like to share some of my interesting projects and little things about data analytics with you. 
 
 I just graduated from M.S. in Statsitics program at [University of South Carolina](https://sc.edu/) in May, 2020 and I gained my B.S. in Statistics from the same school in May, 2018. Yasss, _GAMECOCKS_ forever!! 
 
