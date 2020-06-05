@@ -21,7 +21,7 @@ In my leisure time, I like wroking out and spending time outdoors to enjoy eveyt
 [Predictions of Smoking-Related Disease Cases and Medical Expenditures](https://xiranwang7.github.io/Medical-Cost-and-Risk/), 12/2019
 
 [Time Series Analysis on U.S. Suicide Rate](https://xiranwang7.github.io/Time-Series-Analysis/) 
-| [Slides](https://github.com/xiranwang7/Time-Series-Analysis/blob/master/Time-Series-Analysis-U.S-Suicide-Rate.pdf),04/2019
+| [Slides](https://github.com/xiranwang7/Time-Series-Analysis/raw/master/Time-Series-Analysis-U.S-Suicide-Rate.pdf), 04/2019
 
 [Medical Cost Differences Between Patient Clusters in the U.S.](https://xiranwang7.github.io/Multivariate-Linear-Regression/), 11/2018
 
