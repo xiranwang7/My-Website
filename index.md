@@ -1,6 +1,6 @@
 
 
-## About Me
+## About Me ([resumé](https://github.com/xiranwang7/My-Website/raw/master/XiranWang_Resume_.pdf))
 
 
 Hi, there! My name is Xiran. Welcome to my website. I would like to share some of my interesting projects and little things about data analytics with you. 
