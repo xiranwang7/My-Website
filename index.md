@@ -10,7 +10,7 @@ I am enthusiastic about analyzing data and telling stories behind numbers. Stati
  
 In my leisure time, I like wroking out and spending time outdoors to enjoy eveything about the nature. I love different cultures and I want to travel around the world to see, to feel and to undersatnd them. 
 
-#### _check out my [resumé](https://github.com/xiranwang7/My-Website/raw/master/XiranWang_Resume_.pdf)_.
+### _check out my [resumé](https://github.com/xiranwang7/My-Website/raw/master/XiranWang_Resume_.pdf)_.
 
 
 ## My Techinical Works
