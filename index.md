@@ -6,7 +6,7 @@ Hi, there! My name is Xiran. Welcome to my website. I would like to share some o
 
 I just graduated from M.S. in Statsitics program at [University of South Carolina](https://sc.edu/) in May, 2020 and I gained my B.S. in Statistics from the same school in May, 2018. Currently, I am a Data Scientist Intern at [Apollo Education Group - University of Phoenix](https://www.linkedin.com/school/university-of-phoenix/). Our team is responsible for developing advanced decision technologies, analytical methods and tools for the management, planning, and optimization of the University operations, strategies and student learning.  
 
-I am enthusiastic about analyzing data and telling stories behind numbers. Statistical modeling and programming are my favorite subjects in data analysis process. I specialize in regression analysis and classification problems. To know more about my professional facts, please check out **my [resumé](https://github.com/xiranwang7/My-Website/raw/master/XiranWang_Resume_.pdf).**
+I am enthusiastic about analyzing data and telling stories behind numbers. Statistical modeling and programming are my favorite subjects in data analysis process. I specialize in regression analysis and classification problems. To know more about my professional facts, please check out my **[resumé](https://github.com/xiranwang7/My-Website/raw/master/XiranWang_Resume_.pdf).**
  
 In my leisure time, I like wroking out and spending time outdoors to enjoy eveything about the nature. I love different cultures and I want to travel around the world to see, to feel and to undersatnd them. 
 
