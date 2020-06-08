@@ -54,7 +54,7 @@ In my leisure time, I like wroking out and spending time outdoors to enjoy eveyt
 _Something I have learned outside of the classroom_ :)
 
 **[Coursera](https://www.coursera.org/)**: 
-Python Structure, SQL for Data Science, Data Wrangling and AB Testing, Neural Networks and Deep Learning, Applied Machine Learning in Python, Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization(Ongoing). 
+Python Structure, SQL for Data Science, Data Wrangling and AB Testing, Neural Networks and Deep Learning, Applied Machine Learning in Python, Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization(Ongoing). 
 
 
 **[SAS](https://www.sas.com/en_us/home.html)**:
