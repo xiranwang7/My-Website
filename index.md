@@ -8,7 +8,7 @@ I just graduated from M.S. in Statsitics program at [University of South Carolin
 
 I am enthusiastic about analyzing data and telling stories behind numbers. Statistical modeling and programming are my favorite subjects in data analysis process. I specialize in regression analysis and classification problems. To know more about my professional facts, please check out my **[resumé](https://github.com/xiranwang7/My-Website/raw/master/XiranWang_Resume_.pdf)**.
  
-In my leisure time, I like wroking out and spending time outdoors to enjoy eveything about the nature. I love different cultures and I want to travel around the world to see, to feel and to undersatnd them. 
+In my leisure time, I like working out and spending time outdoors to enjoy everything about the nature. I love different cultures and I want to travel around the world to see, to feel and to understand them.
 
 
 
