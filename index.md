@@ -2,13 +2,16 @@
 
 ## About Me 
 
+Hey there, I'm Effie, your data wizard extraordinaire, and this is my digital playground!
 
+So, picture this: I graduated from the [University of South Carolina](https://sc.edu/) with not one but two degrees in Statistics (M.S. in 2020 and B.S. in 2018). I guess you could say I've been crunching numbers since before it was cool.
 
-Hi, there! My name is Effie. Welcome to my website. I would like to share some of my interesting projects and little things about data analytics with you. 
+Right now, I'm the Decision Scientist at Global Lending Services LLC. My job? Well, it's all about creating snazzy credit risk models, using analytical magic tricks, and inventing tools to make financial decisions smoother than a silk tie.
 
-I just graduated from M.S. in Statistics program at the [University of South Carolina](https://sc.edu/) in May 2020 and I gained my B.S. in Statistics from the same school in May 2018. Currently, I am a Decision Scientist at [Global Lending Services LLC](https://glsauto.com/). Our team is responsible for developing advanced credit risk models, analytical methods, and tools for risk montorning, decisioning and management. 
+But here's the scoop – I'm not your average data geek. I'm on a mission to uncover the juiciest stories hidden behind those digits. You see, statistical modeling and programming are my jam, especially when it comes to cracking the code of regression and classification problems. It's like solving puzzles for a living.
 
-I am enthusiastic about analyzing data and telling stories behind numbers. Statistical modeling and programming are my favorite subjects in the data analysis process. I specialize in regression analysis and classification problems. To know more about my professional facts, please check out my **[resumé](https://github.com/xiranwang7/My-Website/raw/master/XiranWang_Resume_.pdf)**.
+So, if you're ready for some data-driven adventures and a few chuckles along the way, dive into my world.  😄
+
 
  
 
