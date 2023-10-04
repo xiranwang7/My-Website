@@ -6,7 +6,7 @@ Hey there, I'm Effie, your data wizard extraordinaire, and this is my digital pl
 
 So, picture this: I graduated from the [University of South Carolina](https://sc.edu/) with not one but two degrees in Statistics (M.S. in 2020 and B.S. in 2018). I guess you could say I've been crunching numbers since before it was cool.
 
-Right now, I'm the Decision Scientist at Global Lending Services LLC. My job? Well, it's all about creating snazzy credit risk models, using analytical magic tricks, and inventing tools to make financial decisions smoother than a silk tie.
+Right now, I'm the Decision Scientist at [Global Lending Services LLC](https://glsauto.com). A prominent player in the realm of subprime auto loans!! My job? Well, it's all about creating snazzy credit risk models, using analytical magic tricks, and inventing tools to make financial decisions smoother than a silk tie.
 
 But here's the scoop – I'm not your average data geek. I'm on a mission to uncover the juiciest stories hidden behind those digits. You see, statistical modeling and programming are my jam, especially when it comes to cracking the code of regression and classification problems. It's like solving puzzles for a living.
 
